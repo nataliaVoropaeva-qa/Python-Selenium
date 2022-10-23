@@ -1,2 +1,2 @@
 # Python-Selenium
-Автотесты Python + Selenium + Allure
+Автотесты на Python + Selenium, сайт QASTUDIO
